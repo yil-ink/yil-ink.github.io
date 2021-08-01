@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://yil.ink/404</loc>
-  </url>
-
-  <url>
-    <loc>https://yil.ink/500</loc>
-  </url>
 
   <url>
     <loc>https://yil.ink</loc>
@@ -17,26 +10,10 @@
   </url>
 
   <url>
-    <loc>https://yil.ink/about</loc>
-  </url>
-
-  <url>
-    <loc>https://yil.ink/designer</loc>
-  </url>
-
-  <url>
-    <loc>https://yil.ink/feature</loc>
-  </url>
-
-  <url>
     <loc>https://yil.ink/figma-plugin</loc>
   </url>
 
   <url>
     <loc>https://yil.ink/pricing</loc>
-  </url>
-
-  <url>
-    <loc>https://yil.ink/store</loc>
   </url>
 </urlset>
