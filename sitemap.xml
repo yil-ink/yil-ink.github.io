@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
-    <loc>https://yil.ink</loc>
+    <loc>https://yil.ink/404</loc>
   </url>
 
   <url>
-    <loc>https://yil.ink/chrome-extension</loc>
+    <loc>https://yil.ink/500</loc>
+  </url>
+
+  <url>
+    <loc>https://yil.ink</loc>
   </url>
 
   <url>
@@ -15,5 +18,9 @@
 
   <url>
     <loc>https://yil.ink/pricing</loc>
+  </url>
+
+  <url>
+    <loc>https://yil.ink/chrome-extension</loc>
   </url>
 </urlset>
