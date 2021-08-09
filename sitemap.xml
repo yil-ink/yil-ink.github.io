@@ -13,14 +13,14 @@
   </url>
 
   <url>
+    <loc>https://yil.ink/chrome-extension</loc>
+  </url>
+
+  <url>
     <loc>https://yil.ink/figma-plugin</loc>
   </url>
 
   <url>
     <loc>https://yil.ink/pricing</loc>
-  </url>
-
-  <url>
-    <loc>https://yil.ink/chrome-extension</loc>
   </url>
 </urlset>
